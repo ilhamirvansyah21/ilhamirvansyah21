@@ -6,6 +6,5 @@
 - ⚡ Excited to create open-source projects
 - 🌱 I'm currently learning PHP and Javascript
 - 😄 I'm natively speak Indonesian and speak english
-- 💕 I'm currently fall in love with Laravel, Tailwindcss and ReactJs
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamirvansyah21&langs_count=7">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamirvansyah21&langs_count=3">
